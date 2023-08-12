@@ -1,7 +1,7 @@
 {
- "VersionName":"1.0",
- "VersionCode":"1",
- "Message":"1. New: UI 2. Update: API level 3. Premium unlock",
- "link":"https://t.me/akd00bx377"
+ "version":"1.0",
+ "title":"Update v2.0",
+ "description":"1. New: UI 2. Fix crashes on A12 3. other critical fixes",
+ "download":"https://t.me/akd00bx377"
  
 }
